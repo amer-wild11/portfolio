@@ -6,8 +6,6 @@
     font-family: var(--main-font);
     outline: none;
     text-transform: capitalize;
-}
-body{
     scroll-behavior: smooth;
 }
 ::-webkit-scrollbar{

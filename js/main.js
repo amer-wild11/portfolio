@@ -136,7 +136,6 @@ localStorage.getItem("font")){
     }else if(localStorage.getItem("checked") == "yellow"){
         yellow.checked = true
     }
-    console.log(localStorage.getItem("checked"))
     if(localStorage.getItem("bulltes") == "true"){
         bulltesY.checked = true
         bulltes.style.right = "20px"
